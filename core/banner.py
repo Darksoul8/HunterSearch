@@ -1,3 +1,4 @@
+#ĐαɾƙSσυʅ
 #Banner HunterSearch
 class Banner:
     
@@ -18,3 +19,5 @@ class Banner:
         \033[m
         """)
 
+        
+ #ĐαɾƙSσυʅ
