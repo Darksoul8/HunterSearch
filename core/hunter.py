@@ -1,3 +1,4 @@
+#ĐαɾƙSσυʅ
 import requests
 
 class Hunter:
@@ -26,3 +27,5 @@ class Hunter:
         ans = ans.replace(',', '')
 
         return ans
+ 
+ #ĐαɾƙSσυʅ
