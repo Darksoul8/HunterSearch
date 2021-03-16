@@ -1,4 +1,5 @@
 #!/bin/bash
+#ĐαɾƙSσυʅ
 rm -rf *.py
 rm -rf core
 git clone https://github.com/Darksoul8/HunterSearch
